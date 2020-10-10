@@ -1,0 +1,6 @@
+C:\Users\Baran\source\repos\OguzhanBaran_163311052\SOHATS\bin\Debug\SOHATS.dll
+C:\Users\Baran\source\repos\OguzhanBaran_163311052\SOHATS\bin\Debug\SOHATS.pdb
+C:\Users\Baran\source\repos\OguzhanBaran_163311052\SOHATS\obj\Debug\SOHATS.csproj.CoreCompileInputs.cache
+C:\Users\Baran\source\repos\OguzhanBaran_163311052\SOHATS\obj\Debug\SOHATS.dll
+C:\Users\Baran\source\repos\OguzhanBaran_163311052\SOHATS\obj\Debug\SOHATS.pdb
+C:\Users\Baran\source\repos\OguzhanBaran_163311052\SOHATS\obj\Debug\SOHATS.csprojAssemblyReference.cache
